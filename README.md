@@ -4,7 +4,8 @@ This repository contains the binaries for our Cloud Plugins used in Exasol multi
 # Documentation
 You can find further documentation here: 
 
-https://docs.exasol.com/db/latest/administration/aws/plugin/cloud_ui_plugin.htm
+https://docs.exasol.com/db/latest/administration/aws/plugin/cloud_ui_plugin.htm 
+
 https://docs.exasol.com/db/latest/administration/aws/plugin/failover_plugin.htm
 
 # Download
